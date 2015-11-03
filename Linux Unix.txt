@@ -1,0 +1,16 @@
+1. Candidate should be proficient in supporting issues related to Solaris / Linux / HP-UX servers.
+2. Should have knowledge on Solaris 11, RHEL 6.X
+3. Administration and Management of UNIX Servers.
+4. Handling User management related requests end to end
+5. Trouble shooting Volume Manager issues
+6. Providing support for all Cluster related issues (VERITAS, SUN Cluster, Red hat cluster).
+7. Creating zones, LDOMs, migration of zones and LDOMS, P2V migrations...
+8. Experience on Managing SFTP related issues.
+9. Sound knowledge of UNIX patch management.
+10. Experience with UNIX server patching.
+11. Experience with Print server management.
+12. Experience on Monitoring and managing the UNIX Virtual Infrastructure.
+13. Coordinate with Vendors for any Hardware/software issues if any.
+14. Should be handling L2/L3 tasks in his/her current role.
+15. Backup and storage knowledge will be added advantage
+16. Understanding and implementation of Scripting and automation
